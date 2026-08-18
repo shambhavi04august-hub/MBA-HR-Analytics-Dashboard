@@ -1,3 +1,5 @@
+# 📊 MBA HR Analytics Dashboard
+
 ## 📌 Repository Name
 
 **`MBA-HR-Analytics-Dashboard`**
