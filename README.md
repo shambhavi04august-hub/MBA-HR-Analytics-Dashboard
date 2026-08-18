@@ -1,7 +1,3 @@
-For this **MBA HR Analytics Dashboard**, I’d use the following GitHub repository setup. The workbook contains a dashboard plus an employee dataset with 100 employees, covering headcount, salary, bonus, age, department, city, gender, and performance.
-
-# 📊 MBA HR Analytics Dashboard
-
 ## 📌 Repository Name
 
 **`MBA-HR-Analytics-Dashboard`**
