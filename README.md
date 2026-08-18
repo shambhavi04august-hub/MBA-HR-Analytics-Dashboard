@@ -277,6 +277,7 @@ The dashboard brings together key HR metrics in a single visual interface, makin
 **Shambhavi Tripathi**
 
 MBA – Logistics & Supply Chain Management
+
 **Parul University, Vadodara**
 
 ---
